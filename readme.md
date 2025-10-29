@@ -1,20 +1,19 @@
-# 📌 ZenDesk
+# 🧘‍♀️# ZenDesk
 
-• Título do Projeto
 
-• Descrição do Desafio (com a dor do Parceiro)
 
-   Muitas empresas enfrentam desorganização no suporte técnico interno — chamados abertos por e-mail ou telefone, dificuldade em acompanhar o status e falhas na priorização. O ZenDesk centraliza e automatiza o atendimento de TI com inteligência artificial.
+Muitas empresas enfrentam **desorganização no suporte técnico interno**: chamados abertos por e-mail ou telefone, dificuldade em acompanhar o status e falhas na priorização.  
+O **ZenDesk** nasceu para resolver essa dor, centralizando e automatizando o atendimento de TI com **inteligência artificial**.
 
-• Backlog do Produto
+# Backlog do Produto
 
    👉 [Acesse o Backlog Completo](./backlog/backlog.md)
 
-• Cronograma de evolução do Projeto (visual)
+# Cronograma de evolução do Projeto (visual)
 
    👉 [Acesse o Diagrama Gantt](./gantt/gantt.md)
 
-• Tabela descritiva das Sprints (cada linha deve conter)
+# Tabela descritiva das Sprints 
 
    - Período da Sprint
    - Link para Documentação da Sprint
@@ -64,26 +63,12 @@
    dotnet run
    ```
 
-• Link para Pasta de Documentação
-
-   👉 [Abrir pasta docs](./)
-
-• Equipe (com nome completo, papel, foto, Link para GitHub e Link para LinkedIn)
-
-   👉 [Acesse a equipe / TEAM](./team/TEAM.md)
-
-## 📝 Descrição do Desafio
-
-Muitas empresas enfrentam **desorganização no suporte técnico interno**: chamados abertos por e-mail ou telefone, dificuldade em acompanhar o status e falhas na priorização.  
-O **ZenDesk** nasceu para resolver essa dor, centralizando e automatizando o atendimento de TI com **inteligência artificial**.
-
 ---
+
 
 ## 📋 Backlog do Produto
 
 👉 [Acesse o Backlog Completo](./backlog.md)
-
-Dica: o arquivo `docs/backlog.md` contém um placeholder e um template de user story — substitua pelo backlog real importando ou copiando do projeto de referência.
 
 ---
 
@@ -91,7 +76,6 @@ Dica: o arquivo `docs/backlog.md` contém um placeholder e um template de user s
 
 👉 [Acesse o Diagrama / Gantt](./gantt.md)
 
-Dica: você pode adicionar uma imagem exportada do Gantt em `docs/assets/` e referenciá-la no `gantt.md`.
 
 ---
 
@@ -182,15 +166,10 @@ Guarde as instruções completas em `docs/LOCAL-SETUP.md` — arquivo já presen
 
 ---
 
-## 👥 Equipe
 
-Adicionar arquivo `docs/TEAM.md` com: nome completo, papel, foto (opcional), link GitHub e LinkedIn.
 
-Exemplo (adicione no `docs/TEAM.md`):
+## 👥 [Acesse a equipe / TEAM](./team/TEAM.md)
 
-- Nome Completo — Frontend — https://github.com/usuario — https://linkedin.com/in/usuario
-
----
 
 
 
