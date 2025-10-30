@@ -1,0 +1,6 @@
+   - C# (backend) — `TicketSystem.API/`
+   - React.js + TypeScript (frontend) — `src/`
+   - TailwindCSS
+   - MSSQL (quando aplicável)
+   - Inteligência Artificial (integrações previstas)
+   - Hospedagem em Nuvem
