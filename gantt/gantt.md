@@ -7,29 +7,29 @@ O projeto usa sprints e entregas entre **16/09/2025** e **29/10/2025**. Abaixo e
 ```mermaid
 gantt
   dateFormat  YYYY-MM-DD
-   title ZenDesk - Cronograma (16/09/2025 → 29/10/2025)
+  title ZenDesk - Cronograma (16/09/2025 → 29/10/2025)
   excludes weekends
 
   section Planejamento
-  Backlog & Planning       :done,    des1, 2025-09-16, 2025-09-19
+  Backlog e Planejamento   :done,    des1, 2025-09-16, 2025-09-19
 
   section Sprint 1
-  Setup & Scaffolding      :done,    s1-setup, 2025-09-16, 5d
-  Login & Ticket CRUD      :active,  s1-feat, 2025-09-20, 10d
+  Configuração & Estrutura :done,    s1-setup, 2025-09-16, 5d
+  Login e CRUD de Chamados  :active,  s1-feat, 2025-09-20, 10d
 
   section Sprint 2
-  Search & List            :         s2-feat, 2025-09-30, 10d
-  Backend Integration      :         s2-int, 2025-09-30, 14d
+  Pesquisa & Listagem      :         s2-feat, 2025-09-30, 10d
+  Integração Backend       :         s2-int, 2025-09-30, 14d
 
   section Sprint 3
-  Tests & Quality          :         s3-test, 2025-10-14, 10d
-  UI Refinements           :         s3-ui, 2025-10-18, 8d
+  Testes & Qualidade       :         s3-test, 2025-10-14, 10d
+  Aprimoramentos de UI     :         s3-ui, 2025-10-18, 8d
 
   section Sprint 4
-  Hotfixes & Docs          :crit,    s4, 2025-10-28, 2d
+  Hotfixes e Documentação  :crit,    s4, 2025-10-28, 2d
 
   section Release
-  Demo & Release           :milestone, release, 2025-10-29, 0d
+  Demonstração & Entrega   :milestone, release, 2025-10-29, 0d
 ```
 
 ## Arquivo fonte para exportação

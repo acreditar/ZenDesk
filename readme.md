@@ -1,22 +1,22 @@
-# 🧘‍♀️# ZenDesk
+# 🧘‍♀️ ZenDesk - Revolucionando o Suporte Técnico com Inteligência Artificial  
 
+_Soluções integradas de suporte técnico com IA para empresas que buscam eficiência e organização e tranquilidade._
 
+---
 
+## 📝 Descrição do Desafio  
 Muitas empresas enfrentam **desorganização no suporte técnico interno**: chamados abertos por e-mail ou telefone, dificuldade em acompanhar o status e falhas na priorização.  
-O **ZenDesk** nasceu para resolver essa dor, centralizando e automatizando o atendimento de TI com **inteligência artificial**.
+A **ZenDesk** nasceu para resolver essa pendencia, centralizando e automatizando o atendimento de TI com **inteligência artificial**.
 
-# Backlog do Produto
+---
 
-   👉 [Acesse o Backlog Completo](./backlog/backlog.md)
+   ## 🛄 [Acesse o Backlog Completo](./backlog/backlog.md)
 
-# Cronograma de evolução do Projeto (visual)
+   ## 📶 [Acesse o Diagrama Gantt](./gantt/gantt.md)
 
-   👉 [Acesse o Diagrama Gantt](./gantt/gantt.md)
+   ## 🧵[Acesse diagrama do projeto](./diagrama/)
 
-# Tabela descritiva das Sprints 
-
-   - Período da Sprint
-   - Link para Documentação da Sprint
+# Tabela descritiva das Sprints
 
    👉 [Acesse o Índice de Sprints](./sprints)
 
@@ -62,32 +62,15 @@ O **ZenDesk** nasceu para resolver essa dor, centralizando e automatizando o ate
    cd TicketSystem.API
    dotnet run
    ```
-
 ---
 
-
-## 📋 Backlog do Produto
-
-👉 [Acesse o Backlog Completo](./backlog.md)
-
----
-
-## 📆 Cronograma de Evolução do Projeto
-
-👉 [Acesse o Diagrama / Gantt](./gantt.md)
+## 📊 [Acesse o Backlog Completo](./backlog.md)
 
 
----
+## 💹 [Acesse o Diagrama / Gantt](./gantt.md)
 
-## 📋 Tabela de Sprints
 
-👉 [Acesse o Índice de Sprints](./sprints.md)
-
-Pastas relacionadas:
-
-- `docs/sprints/` — arquivos por sprint (ex.: `sprint-1.md`, `sprint-2.md`, ...)
-
----
+## 📶 [Acesse o Índice de Sprints](./sprints.md)
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -165,11 +148,8 @@ Guarde as instruções completas em `docs/LOCAL-SETUP.md` — arquivo já presen
 - DoR/DoD por sprint (tabela consolidada): [DoR_DoD_por_sprint.md](./DoR_DoD_por_sprint.md)
 
 ---
-
-
-
-## 👥 [Acesse a equipe / TEAM](./team/TEAM.md)
-
+   👥 clique para ver a [equipe](./team/TEAM.md)
+---
 
 
 
