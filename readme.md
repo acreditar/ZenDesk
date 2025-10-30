@@ -64,13 +64,6 @@ A **ZenDesk** nasceu para resolver essa pendencia, centralizando e automatizando
    ```
 ---
 
-## 📊 [Acesse o Backlog Completo](./backlog.md)
-
-
-## 💹 [Acesse o Diagrama / Gantt](./gantt.md)
-
-
-## 📶 [Acesse o Índice de Sprints](./sprints.md)
 
 ## 🛠 Tecnologias Utilizadas
 
