@@ -22,8 +22,7 @@ A **ZenDesk** nasceu para resolver essa pendencia, centralizando e automatizando
 
 ## 🧱[Estrutura do projeto](./estrutura/estrutura.md)
 
-##👉 [LOCAL-SETUP (passo-a-passo)](./setup/LOCAL-SETUP.md)
-
+## 👉 [LOCAL-SETUP (passo-a-passo)](./setup/LOCAL-SETUP.md)
 
 ## 📝 Checklists e DoR/DoD
 
